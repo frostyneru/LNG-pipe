@@ -991,7 +991,6 @@ double p = 3.5, T = 125;                        //Начальное давле�
 
 int main()
 {
-    cout << "Hello World!" << endl;
 
 
     int x_ = 0, y_ = 0;
